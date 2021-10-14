@@ -1,5 +1,6 @@
 # Sveltekit Boilerplate with mdsvex, tailwindcss, postcss, eslint, prettier configs
 
+Heavily inspired by the [gitpod.io Repository](https://github.com/gitpod-io/website). Using some of the same structure of the documentation section.
 
 ## create-svelte
 
